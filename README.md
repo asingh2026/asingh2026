@@ -9,9 +9,9 @@ I'm passionate about low-level software, embedded systems, and scientific comput
 # Projects & Experience
 
 ### Particle Simulation & Analysis (C++ / Geant4 & ROOT)
-Developed C++ physics simulations using Geant4 and ROOT to model particle interactions and radiation scattering for research analysis.
-Formatted data pipelines in Python to process high-volume simulation results and generate statistical distributions used in published literature.
-**Research & Citations:**
+- Developed C++ physics simulations using Geant4 and ROOT to model particle interactions and radiation scattering for research analysis.
+- Formatted data pipelines in Python to process high-volume simulation results and generate statistical distributions used in published literature.
+- **Research & Citations:**
   - [Published Paper / Zenodo Record](https://zenodo.org/records/21498271)
   - Additional contributions referenced in academic literature on resume 
 
